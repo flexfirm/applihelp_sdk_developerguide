@@ -385,7 +385,7 @@ Push通知受信時の端末の挙動（通知メッセージや、バイブ・�
 アプリでPUSH通知を有効にするためには Apple Developer での設定が必要です。設定は以下を参考にしてください。  
 [Local および Push Notification プログラミングガイド | Apple Developer](https://developer.apple.com/jp/devcenter/ios/library/documentation/RemoteNotificationsPG.pdf)  
 
-実装は、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.1.1.md#usage)「Push通知受信」をご参照ください。
+実装は、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.2.0.md#usage)「Push通知受信」をご参照ください。
 その際、`AppDelegate`クラスは`Assets/Plugins/iOS/ApplihelpAppController.mm`になります。
 
 ### 文字列
@@ -393,20 +393,20 @@ Push通知受信時の端末の挙動（通知メッセージや、バイブ・�
 Applihelpが使用する文字列については、Applihelp SDK for Androidの[usage](https://github.com/flexfirm/applihelp_android_sdk/blob/master/DeveloperGuide_1.3.0.md#usage)「文字列」をご参照ください。
 
 <small>[iOS]</small>  
-Applihelpが使用する文字列については、Applihelp iOS for Androidの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.1.1.md#usage)「Localizable.stringsの編集」及び「文字列」をご参照ください。
+Applihelpが使用する文字列については、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.2.0.md#usage)「Localizable.stringsの編集」及び「文字列」をご参照ください。
 
 ### 外観
 <small>[Android]</small>  
 Applihelpの外観については、Applihelp SDK for Androidの[usage](https://github.com/flexfirm/applihelp_android_sdk/blob/master/DeveloperGuide_1.3.0.md#usage)「外観」をご参照ください。
 
 <small>[iOS]</small>  
-Applihelpの外観については、Applihelp iOS for Androidの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.1.1.md#usage)「外観」をご参照ください。
+Applihelpの外観については、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.2.0.md#usage)「外観」をご参照ください。
 
 **[[⬆]](#TOC)**
 
 <a name="Changelogs">Changelogs</a>
 --------------------------------------------------
-- [Ver.1.1.0]Released on August ??, 2014  
+- [Ver.1.1.0]Released on August 4, 2014  
 	- iOS対応
 	- 各OSのSDKバージョン
 		- Android SDK [Ver.1.3.0]  
