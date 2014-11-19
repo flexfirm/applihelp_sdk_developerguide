@@ -254,7 +254,7 @@ Applihelpのお問い合わせ履歴画面表示を表示します。
 
 ```CS
 //(C#)
-AppHelpPlugin.showAppHelp();
+AppHelpPlugin.showIssueHistory();
 ```
 
 </br>
