@@ -389,7 +389,7 @@ Applihelpの外観については、Applihelp iOS for Androidの[usage](https://
 
 <a name="Changelogs">Changelogs</a>
 --------------------------------------------------
-- [Ver.1.2.0]Released on November ??, 2014  
+- [Ver.1.2.0]Released on November 19, 2014  
 	- [更新][Versions](#Versions)各OSのSDKバージョン
 		- Android SDK [Ver.1.4.0]  
 		- iOS SDK [Ver.1.3.1]
