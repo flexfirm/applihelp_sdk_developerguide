@@ -376,14 +376,14 @@ BroadcastReceiverの実装例は下記ガイドの「PUSH通知受信(GCM)をカ
 Applihelpが使用する文字列については、Applihelp SDK for Androidの[usage](https://github.com/flexfirm/applihelp_android_sdk/blob/master/DeveloperGuide_1.4.0.md#usage)「文字列」をご参照ください。
 
 <small>[iOS]</small>  
-Applihelpが使用する文字列については、Applihelp iOS for Androidの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.3.1.md#usage)「Localizable.stringsの編集」及び「文字列」をご参照ください。
+Applihelpが使用する文字列については、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.3.1.md#usage)「Localizable.stringsの編集」及び「文字列」をご参照ください。
 
 ### 外観
 <small>[Android]</small>  
 Applihelpの外観については、Applihelp SDK for Androidの[usage](https://github.com/flexfirm/applihelp_android_sdk/blob/master/DeveloperGuide_1.4.0.md#usage)「外観」をご参照ください。
 
 <small>[iOS]</small>  
-Applihelpの外観については、Applihelp iOS for Androidの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.3.1.md#usage)「外観」をご参照ください。
+Applihelpの外観については、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.3.1.md#usage)「外観」をご参照ください。
 
 **[[⬆]](#TOC)**
 
