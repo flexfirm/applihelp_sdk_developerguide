@@ -254,7 +254,7 @@ Applihelpのお問い合わせ履歴画面表示を表示します。
 
 ```CS
 //(C#)
-AppHelpPlugin.showIssueHistory();
+AppHelpPlugin.showAppHelp();
 ```
 
 </br>
@@ -384,6 +384,13 @@ Applihelpの外観については、Applihelp SDK for Androidの[usage](https://
 
 <small>[iOS]</small>  
 Applihelpの外観については、Applihelp SDK for iOSの[usage](https://github.com/flexfirm/applihelp_ios_sdk/blob/master/DeveloperGuide_1.3.1.md#usage)「外観」をご参照ください。
+### 不要になったファイル一覧
+新しいバージョンのapplihelp.unitypackageをインポートした際、古いapplihelp.unitypackageにのみ存在するファイルはプロジェクトに残ったままとなります。  
+Unityの仕組み上、不要になったファイルは自動で削除されないため、**ご自身で削除していただく必要があります**。  
+
+以下、不要になったファイル一覧です。  
+`Assets/Plugins/Android/res/layout/ah_register_profile_activity.xml`  
+`Assets/Plugins/Android/apphelp4unity.jar`
 
 **[[⬆]](#TOC)**
 
@@ -404,6 +411,7 @@ Applihelpの外観については、Applihelp SDK for iOSの[usage](https://gith
 		- [追加]Applihelp　FAQ画面を表示
 		- [追加]Applihelp　お問い合わせ履歴画面表示
 		- [追加]Android(GCMをカスタマイズする)
+		- [追加]不要になったファイル一覧  
 
 - [Ver.1.1.0]Released on August 1, 2014  
 	- iOS対応
